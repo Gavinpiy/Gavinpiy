@@ -39,12 +39,15 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   <a href="https://www.github.com/Gavinpiy" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
+  
   <a href="https://www.linkedin.com/in/gavin-yip" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
+  
   <a href="https://www.x.com/GavinYip5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
+  
 </div>
 
 
@@ -60,9 +63,10 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
 </a>
 </div>
 <br>
+
 ## Contributions
 <div> 
- 
+
   ![Snake animation](https://github.com/gavinpiy/gavinpiy/blob/output/github-contribution-grid-snake.svg)
  
 </div>

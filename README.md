@@ -23,6 +23,8 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 | Nesst       | [Github](https://github.com/tplatt92/nesst)      | [Demo](https://nesst.vercel.app/)      | React                |
 | Revision Tool      | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens)          | [Demo](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/)      | Javascript           |
 
+[![Nesst Demo](https://img.youtube.com/vi/watch?v=SyPIFCDmNHA/0.jpg)](https://www.youtube.com/watch?v=watch?v=SyPIFCDmNHA)
+
 </div>
 
 <h2 align="center">Technologies and Tools</h2>

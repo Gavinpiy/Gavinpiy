@@ -8,13 +8,22 @@
 
 <h3 align="center">Pharmacist Turned Software Developer</h3>
 
-After working as a pharmacist since 2018, I have decided to switch careers and break into tech. I joined the School of Code boot camp where I took part in weekly hackathons with new teammates, including a week-long and month-long project.
+After working as a pharmacist since 2018, I decided to switch careers and break into tech. I joined the School of Code boot camp where I took part in weekly hackathons with new teammates, including a week-long and a month-long project.
 
 <p align="center">
   <b>🌍 I'm based in London</b><br>
   <b>🖥️ See my portfolio at <a href="http://gavinportfolio.vercel.app/" target="_blank">Portfolio (in progress)</a></b><br>
   <b>✉️ You can contact me at <a href="mailto:gavin.yip88@gmail.com">gavin.yip88@gmail.com</a></b>
 </p>
+
+<div align="center">
+
+|               Project |                                                            |                                                          | Tech                 |
+|:---------------------:|:----------------------------------------------------------:|:--------------------------------------------------------:|:--------------------:|
+| Nesst       | [Github](https://github.com/tplatt92/nesst)      | [Demo](https://nesst.vercel.app/)      | React                |
+| Revision Tool      | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens)          | [Demo](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/)      | Javascript           |
+
+</div>
 
 <h2 align="center">Technologies and Tools</h2>
 

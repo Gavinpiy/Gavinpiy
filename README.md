@@ -19,10 +19,15 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 <div align="center">
 <h2>Projects</h2>
 
-|               Project |                                                            |                                                          | Tech                 |
-|:---------------------:|:----------------------------------------------------------:|:--------------------------------------------------------:|:--------------------:|
-| Nesst       | [Github](https://github.com/tplatt92/nesst)      | [Demo](https://nesst.vercel.app/)      | React                |
-| Revision Tool      | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens)          | [Demo](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/)      | Javascript           |
+| Project         | Github                                                           | Demo                                                           | Tech        |
+|:---------------:|:----------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| Nesst           | [Github](https://github.com/tplatt92/nesst)                     | [Demo](https://nesst.vercel.app/)                              | React       |
+| Revision Tool   | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens) | [Demo](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/) | Javascript  |
+| Stickman        | [Github](https://github.com/Gavinpiy/StickMan)                 | [Demo](https://stick-man.vercel.app/)                         | Javascript  |
+| Dictionary      | [Github](https://github.com/SchoolOfCode/bc15-w3-recap-task-fetch-challenge-Gavinpiy) | [Demo](https://bc15-w3-recap-task-fetch-challenge-gavinpiy.vercel.app/) | Javascript  |
+| Pokemon Catcher | [Github](https://github.com/Gavinpiy/pokemonreact)            | [Demo](https://pokemonreact.vercel.app/)                      | React       |
+
+
 
 <h2>Nesst Demo Video</h2>
 
@@ -69,9 +74,9 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 
 ## **My GitHub Stats**
 <div display="flex" align="center"> 
-<a href="http://www.github.com/Gavinpiy">
+<!-- <a href="http://www.github.com/Gavinpiy">
   <img src="https://github-readme-stats.vercel.app/api?username=Gavinpiy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gavinpiy's GitHub stats" />
-</a>
+</a> -->
 
 <a href="http://www.github.com/Gavinpiy">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gavinpiy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />

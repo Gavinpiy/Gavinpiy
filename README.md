@@ -1,14 +1,10 @@
 <div align="center">
 
-<h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gavin Yip"></h1>
-
-<h2>My name is Gavin Yip</h2>
+# Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gavin Yip"> My name is Gavin Yip
 
 </div>
 
 
-
----
 
 <h3 align="center">Pharmacist Turned Software Developer</h3>
 
@@ -20,7 +16,7 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   <b>✉️ You can contact me at <a href="mailto:gavin.yip88@gmail.com">gavin.yip88@gmail.com</a></b>
 </p>
 
-<h3 align="center">Technologies and Tools</h3>
+<h2 align="center">Technologies and Tools</h2>
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -37,9 +33,9 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h3 align="center">Socials</h3>
+<h2 align="center">Socials</h2>
 
-<p align="center">
+<div align="center">
   <a href="https://www.github.com/Gavinpiy" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
@@ -49,11 +45,11 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   <a href="https://www.x.com/GavinYip5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
-</p>
+</div>
 
 
 
-**My GitHub Stats**
+## **My GitHub Stats**
 <div display="flex"> 
 <a href="http://www.github.com/Gavinpiy">
   <img src="https://github-readme-stats.vercel.app/api?username=Gavinpiy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gavinpiy's GitHub stats" />
@@ -63,7 +59,8 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gavinpiy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 </div>
-
+<br>
+## Contributions
 <div> 
  
   ![Snake animation](https://github.com/gavinpiy/gavinpiy/blob/output/github-contribution-grid-snake.svg)

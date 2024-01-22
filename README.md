@@ -49,11 +49,11 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   </a>
   
 </div>
-
+<div align="center">
 
 
 ## **My GitHub Stats**
-<div display="flex"> 
+<div display="flex" align="center"> 
 <a href="http://www.github.com/Gavinpiy">
   <img src="https://github-readme-stats.vercel.app/api?username=Gavinpiy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gavinpiy's GitHub stats" />
 </a>
@@ -65,8 +65,9 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
 <br>
 
 ## Contributions
-<div> 
+<div align="center"> 
 
   ![Snake animation](https://github.com/gavinpiy/gavinpiy/blob/output/github-contribution-grid-snake.svg)
  
+</div>
 </div>

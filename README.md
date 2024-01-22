@@ -1,4 +1,12 @@
-# Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gavin Yip
+<div align="center">
+
+<h1>Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gavin Yip"></h1>
+
+<h2>My name is Gavin Yip</h2>
+
+</div>
+
+
 
 ---
 
@@ -6,9 +14,11 @@
 
 After working as a pharmacist since 2018, I have decided to switch careers and break into tech. I joined the School of Code boot camp where I took part in weekly hackathons with new teammates, including a week-long and month-long project.
 
-* 🌍 I'm based in London
-* 🖥️ See my portfolio at [Portfolio (in progress)](http://gavinportfolio.vercel.app/)
-* ✉️ You can contact me at [gavin.yip88@gmail.com](mailto:gavin.yip88@gmail.com)
+<p align="center">
+  <b>🌍 I'm based in London</b><br>
+  <b>🖥️ See my portfolio at <a href="http://gavinportfolio.vercel.app/" target="_blank">Portfolio (in progress)</a></b><br>
+  <b>✉️ You can contact me at <a href="mailto:gavin.yip88@gmail.com">gavin.yip88@gmail.com</a></b>
+</p>
 
 <h3 align="center">Technologies and Tools</h3>
 
@@ -41,10 +51,10 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   </a>
 </p>
 
-<h3 align="center">Badges</h3>
+
 
 **My GitHub Stats**
-
+<div display="flex"> 
 <a href="http://www.github.com/Gavinpiy">
   <img src="https://github-readme-stats.vercel.app/api?username=Gavinpiy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gavinpiy's GitHub stats" />
 </a>
@@ -52,7 +62,7 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
 <a href="http://www.github.com/Gavinpiy">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gavinpiy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-
+</div>
 
 <div> 
  

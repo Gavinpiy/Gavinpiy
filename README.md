@@ -52,10 +52,10 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
 <a href="http://www.github.com/Gavinpiy">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gavinpiy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-<div>![Snake animation](https://github.com/gavinpiy/gavinpiy/blob/output/github-contribution-grid-snake.svg)</div>
+
 
 <div> 
  
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gavinpiy/gavinpiy/blob/output/github-contribution-grid-snake.svg)
  
 </div>

@@ -2,7 +2,7 @@
 
 ---
 
-**Pharmacist Turned Software Developer**
+<h3 align="center">Pharmacist Turned Software Developer</h3>
 
 After working as a pharmacist since 2018, I have decided to switch careers and break into tech. I joined the School of Code boot camp where I took part in weekly hackathons with new teammates, including a week-long and month-long project.
 
@@ -10,7 +10,7 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
 * 🖥️ See my portfolio at [Portfolio (in progress)](http://gavinportfolio.vercel.app/)
 * ✉️ You can contact me at [gavin.yip88@gmail.com](mailto:gavin.yip88@gmail.com)
 
-### Skills
+<h3 align="center">Technologies and Tools</h3>
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -27,7 +27,7 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+<h3 align="center">Socials</h3>
 
 <p align="center">
   <a href="https://www.github.com/Gavinpiy" target="_blank" rel="noreferrer">
@@ -41,7 +41,7 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
   </a>
 </p>
 
-### Badges
+<h3 align="center">Badges</h3>
 
 **My GitHub Stats**
 
@@ -52,3 +52,10 @@ After working as a pharmacist since 2018, I have decided to switch careers and b
 <a href="http://www.github.com/Gavinpiy">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gavinpiy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+<div>![Snake animation](https://github.com/gavinpiy/gavinpiy/blob/output/github-contribution-grid-snake.svg)</div>
+
+<div> 
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

@@ -84,6 +84,9 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 </div>
 <br>
 
+## Codewars!
+![image](https://www.codewars.com/users/Gavinpiy/badges/small)
+
 ## Contributions
 <div align="center"> 
 

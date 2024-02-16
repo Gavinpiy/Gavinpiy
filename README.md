@@ -87,6 +87,9 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 ## Codewars!
 ![image](https://www.codewars.com/users/Gavinpiy/badges/small)
 
+## Exercism
+<a href="https://exercism.org/profiles/Gavinpiy">Exercism Profile</a>
+
 ## Contributions
 <div align="center"> 
 

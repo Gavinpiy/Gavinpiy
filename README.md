@@ -21,6 +21,7 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 
 | Project         | Github                                                           | Demo                                                           | Tech        |
 |:---------------:|:----------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
+| RegExpIt        | [Github](https://github.com/Gavinpiy/RegExp)                     | [Demo](https://reg-873otcx8f-gavin-yips-projects.vercel.app/) | Next.js       |
 | Nesst           | [Github](https://github.com/tplatt92/nesst)                     | [Demo](https://nesst.vercel.app/)                              | Next.js       |
 | Revision Tool   | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens) | [Demo](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/) | Javascript  |
 | Stickman        | [Github](https://github.com/Gavinpiy/StickMan)                 | [Demo](https://stick-man.vercel.app/)                         | Javascript  |

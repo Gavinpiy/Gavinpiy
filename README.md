@@ -12,7 +12,7 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 
 <p align="center">
   <b>🌍 I'm based in London</b><br>
-  <b>🖥️ See my <a href="http://gavinportfolio.vercel.app/" target="_blank">Portfolio </a>(still in progress 👀)</b><br>
+  <b>🖥️ See my <a href="http://gavinportfolio.vercel.app/" target="_blank">Portfolio </a></b><br>
   
 </p>
 

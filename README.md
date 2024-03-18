@@ -20,15 +20,15 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 <h2>Projects</h2>
 
 | Project          | Github                                                                      | Demo                                                                                         | Tech                  |
-|------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------|
-| AI Notes         | [Github](https://github.com/Gavinpiy/AiNotes)                                | [Demo](https://ai-notes-chi.vercel.app/)                                                     | Next.js + TypeScript  |
-| QR code Generator         | [Github](https://github.com/Gavinpiy/AiNotes)                                | In progress                                                    |Python  |
-| RegExpIt         | [Github](https://github.com/Gavinpiy/RegExp)                                 | [Demo](https://reg-exp.vercel.app/)                                                          | Next.js + JavaScript  |
-| Nesst            | [Github](https://github.com/tplatt92/nesst)                                  | [Demo](https://nesst.vercel.app/)                                                            | Next.js + TypeScript  |
-| Revision Tool    | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens) | [Demo](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/)                     | JavaScript            |
-| Stickman         | [Github](https://github.com/Gavinpiy/StickMan)                               | [Demo](https://stick-man.vercel.app/)                                                       | JavaScript            |
-| Dictionary       | [Github](https://github.com/SchoolOfCode/bc15-w3-recap-task-fetch-challenge-Gavinpiy) | [Demo](https://bc15-w3-recap-task-fetch-challenge-gavinpiy.vercel.app/)                   | JavaScript            |
-| Pokemon Catcher  | [Github](https://github.com/Gavinpiy/pokemonreact)                           | [Demo](https://pokemonreact.vercel.app/)                                                    | React                 |
+|------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------|
+| AI Notes         | [Github](https://github.com/Gavinpiy/AiNotes)                                | [Demo](https://ai-notes-chi.vercel.app/)                                            | Next.js + TypeScript  |
+| QR code Generator| [Github](https://github.com/Gavinpiy/QRGenerator)                            | In progress                                                                         |Python                 |
+| RegExpIt         | [Github](https://github.com/Gavinpiy/RegExp)                                 | [Demo](https://reg-exp.vercel.app/)                                                 | Next.js + JavaScript  |
+| Nesst            | [Github](https://github.com/tplatt92/nesst)                                  | [Demo](https://nesst.vercel.app/)                                                   | Next.js + TypeScript  |
+| Revision Tool    | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens) | [Demo](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/)          | JavaScript            |
+| Stickman         | [Github](https://github.com/Gavinpiy/StickMan)                               | [Demo](https://stick-man.vercel.app/)                                               | JavaScript            |
+| Dictionary       | [Github](https://github.com/SchoolOfCode/bc15-w3-recap-task-fetch-challenge-Gavinpiy) | [Demo](https://bc15-w3-recap-task-fetch-challenge-gavinpiy.vercel.app/)    | JavaScript            |
+| Pokemon Catcher  | [Github](https://github.com/Gavinpiy/pokemonreact)                           | [Demo](https://pokemonreact.vercel.app/)                                            | React                 |
 
 
 

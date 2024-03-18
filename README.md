@@ -19,14 +19,15 @@ After working as a pharmacist since 2018, I decided to switch careers and break 
 <div align="center">
 <h2>Projects</h2>
 
-| Project         | Github                                                           | Demo                                                           | Tech        |
-|:---------------:|:----------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------:|
-| RegExpIt        | [Github](https://github.com/Gavinpiy/RegExp)                     | [Link](https://reg-exp.vercel.app/) |                           Next.js       |
-| Nesst           | [Github](https://github.com/tplatt92/nesst)                     | [Link](https://nesst.vercel.app/)                              | Next.js       |
-| Revision Tool   | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens) | [Link](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/) | Javascript  |
-| Stickman        | [Github](https://github.com/Gavinpiy/StickMan)                 | [Link](https://stick-man.vercel.app/)                         | Javascript  |
-| Dictionary      | [Github](https://github.com/SchoolOfCode/bc15-w3-recap-task-fetch-challenge-Gavinpiy) | [Link](https://bc15-w3-recap-task-fetch-challenge-gavinpiy.vercel.app/) | Javascript  |
-| Pokemon Catcher | [Github](https://github.com/Gavinpiy/pokemonreact)            | [Link](https://pokemonreact.vercel.app/)                      | React       |
+| Project          | Github                                                                      | Demo                                                                                         | Tech                  |
+|------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------|
+| AI Notes         | [Github](https://github.com/Gavinpiy/AiNotes)                                | [Demo](https://ai-notes-chi.vercel.app/)                                                     | Next.js + TypeScript  |
+| RegExpIt         | [Github](https://github.com/Gavinpiy/RegExp)                                 | [Demo](https://reg-exp.vercel.app/)                                                          | Next.js + JavaScript  |
+| Nesst            | [Github](https://github.com/tplatt92/nesst)                                  | [Demo](https://nesst.vercel.app/)                                                            | Next.js + TypeScript  |
+| Revision Tool    | [Github](https://github.com/SchoolOfCode/bc15-w8-project-front-end-tech-ti-tens) | [Demo](https://bc15-w8-project-front-end-tech-ti-tens-tau.vercel.app/)                     | JavaScript            |
+| Stickman         | [Github](https://github.com/Gavinpiy/StickMan)                               | [Demo](https://stick-man.vercel.app/)                                                       | JavaScript            |
+| Dictionary       | [Github](https://github.com/SchoolOfCode/bc15-w3-recap-task-fetch-challenge-Gavinpiy) | [Demo](https://bc15-w3-recap-task-fetch-challenge-gavinpiy.vercel.app/)                   | JavaScript            |
+| Pokemon Catcher  | [Github](https://github.com/Gavinpiy/pokemonreact)                           | [Demo](https://pokemonreact.vercel.app/)                                                    | React                 |
 
 
 
